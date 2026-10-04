@@ -1,0 +1,22 @@
+{
+  "Create_Saul_Shortcut.ps1": "e6e8248aa0db6210db600786a962150ac188fcd18c2fc135bbe15e0eda076b63",
+  "Deploy_Saul.cmd": "bc97e351c9610635511955b419d9da901f42b7e0f950394ce44211121c17c85f",
+  "LIVE_TEST.md": "3a2c061dc6239a6282e63e45bab4b2032ea263b6377e100cf240fd28f5c54e6f",
+  "Launch_Saul.vbs": "c25ee56df936e678f9f6a4beade72ca6a4819d810634ad39b5b56d13032144d9",
+  "README.md": "35a8097bbea459338966e856d15cef17a384a6126cedddcf3b8da3902812285c",
+  "RELEASE_NOTES.md": "9f49b58199beb9e89b48c0ec110f899abe02cc0ca3685259c2fb6291292ff239",
+  "Start_Saul.cmd": "278bc35c072171243bbcd5cda7a50adb0bc6cbd2ad9e3bcd1eb0b4baab7be667",
+  "Start_Saul_Floating.cmd": "830be0fcc7d04af40248b11ac65b06e4fd2c813d9bcbbc3f50c90a36704408db",
+  "TEST_REPORT.md": "56b9cd39d276edc954588f115ed37039a67a6ce2f7b19bbf8b7697d22f70eafd",
+  "Verify_Saul.cmd": "b6096247f4045550d0ced6e39be5b7a3dacbfef3298db5710297bc6c711b24da",
+  "assistant.py": "1141f40538236d80c5d8dff2f413621a9c17443c6d1a8c21cafd390f15440e8b",
+  "aura_float.png": "f73bf0fb603b2e815019d1094dfd70ce624532701626edc51d94d047d5609f05",
+  "aura_hero.png": "6d6674d0e579f87cd784772c819712589278e192c08472b9eab5ed98ee5e5f37",
+  "deploy.py": "4959128c643fe98ed56c99064cd1ebfc6d03f9542dd8964207b28c78def70ff3",
+  "requirements-reference.txt": "aa1b893e369b69f3d10ed6d0f93e4dac4ffc47a96eeb559df8d7ba403b34ab5c",
+  "run_saul.py": "1d6b486f11ba317b2e3defd02bd8c3c2b8c8b458451bb763d70823e47212a56e",
+  "saul.ico": "0913a0b92324ff4485c9ba51bd006af11909b039d3928d34a6de187703b031d6",
+  "saul_desktop.py": "b5a6e47e12c8729a6879b164fc44c1112b0462feaf2bc451e8405f8e6bf05c15",
+  "test_regression.py": "391db7402f442220d8bb70f69119a346f1cd3c2c4f39bd9c45a09366f308de8a",
+  "verify_saul.py": "b7953ed8804f0c74aab703ca4540a776a49df80a347e9b8ed63c42394b6acdc7"
+}

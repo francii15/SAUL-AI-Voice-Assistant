@@ -1,0 +1,19 @@
+# Dependency inventory from imports; NOT a tested cross-platform lock.
+# Deployment intentionally reuses the existing working orynth Python 3.11 environment.
+# Use Verify_Saul.cmd to identify missing imports and capture exact installed versions.
+numpy
+torch
+sounddevice
+comtypes
+openwakeword
+onnxruntime
+faster-whisper
+silero-vad
+sentence-transformers
+python-dotenv
+langchain-groq
+langgraph
+groq
+yt-dlp
+opencv-python
+# tkinter ships with the Python/Conda distribution; do not pip-install tkinter.

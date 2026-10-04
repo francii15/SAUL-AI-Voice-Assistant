@@ -1,0 +1,37 @@
+# Secrets
+.env
+*.env
+snipit api key.txt
+*api_key*
+*apikey*
+
+# Runtime files
+.saul-running.lock
+*.lock
+*.log
+
+# Machine-specific files
+python-path.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Personal/generated data
+notes/
+questions/
+summaries/
+photos/
+
+# Backups
+backups/
+
+# IDE / Windows
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
